@@ -4341,7 +4341,8 @@ header
 
 @media (max-width: 991px) {
   .main-nav-container {
-    position: absolute;
+    /*position: absolute;*/
+    position: fixed;
     height: auto;
     overflow: hidden;
   }
