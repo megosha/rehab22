@@ -1422,6 +1422,9 @@ pre {
 }
 
 @media (max-width: 991px) {
+  .logo-img{
+    width: 90px;
+  }
   .cat-menu {
     text-align: center;
   }
