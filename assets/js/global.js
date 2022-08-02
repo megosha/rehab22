@@ -82,13 +82,13 @@ Author: Tempload - support@tempload.com
 			autoplay: false,
 			autoplayTimeout: 4000,
 			autoplayHoverPause: true,
-			callbacks:true,
-			mouseDrag:false,
 			responsive: {
 				0: {
+					mouseDrag:false,
 					items: 1
 				},
 				600: {
+					mouseDrag:false,
 					items: 1
 				},
 				1000: {
